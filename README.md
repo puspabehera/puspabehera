@@ -5,7 +5,7 @@ SQL & Power BI Developer
 ------------------------
 
 I am a Power BI Developer with good hands on MS SQL
-
+ 
 * 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [puspa.dbdev@gmail.com](mailto:puspa.dbdev@gmail.com)
 * 🧠  I'm Learning deep in Power BI
