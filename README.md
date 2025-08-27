@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 MS SQL Developer
 ------------------------
 
-I am a Power BI Developer with good hands on MS SQL
+I am a .NET Developer with good hands on MS SQL
   
 * 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [puspa.dbdev@gmail.com](mailto:puspa.dbdev@gmail.com)
