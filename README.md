@@ -9,7 +9,7 @@ I am a .NET Developer with good hands on .NET Core, ASP.NET Web API, MS SQL
 * 🌍  I'm based in Hyderabad 
 * ✉️  You can contact me at [puspa.dbdev@gmail.com](mailto:puspa.dbdev@gmail.com)
 * 🧠  I'm Learning deep in WebAPI.
-* 🤝  I'm open to collaborating on SQL| C#| Asp.Net Core WebAPI|EF Core|PostgreSQL| ADF & Python
+* 🤝  I'm open to collaborating on SQL| C#| Asp.Net Core WebAPI|EF Core|PostgreSQL| ADF & Python 
  
 ### Skills
 
